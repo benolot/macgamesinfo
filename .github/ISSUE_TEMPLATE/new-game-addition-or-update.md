@@ -2,7 +2,7 @@
 name: New Game Addition or Update
 about: Provide information about a new game
 title: "[ADDITION/UPDATE] GAMETITLE"
-labels: ''
+labels: addition/update
 assignees: benolot
 
 ---
